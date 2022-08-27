@@ -1,1 +1,1 @@
-# rubics_cube
+# rubiks_cube
